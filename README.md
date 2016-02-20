@@ -1,3 +1,4 @@
 # Modulo1POO
 Repositorio del Curso Progamacion Orientado a Objetos
-:D
+
+Universidad Privada Antenor Orrego
